@@ -1,0 +1,7 @@
+TITLE       Required
+REMARK   1 File created by GaussView 6.0.16
+HETATM    1  N           0      -0.485   0.075   0.002                       N
+HETATM    2  N           0      -1.577   0.075   0.002                       N
+END
+CONECT    1    2
+CONECT    2    1

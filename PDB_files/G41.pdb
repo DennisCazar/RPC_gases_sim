@@ -1,0 +1,16 @@
+TITLE       Required
+REMARK   1 File created by GaussView 6.0.16
+HETATM    1  P           0       0.000   0.000  -0.284                       P
+HETATM    2 Cl           0       0.000   0.000   1.728                      Cl
+HETATM    3  F           0       0.000   1.601  -0.304                       F
+HETATM    4  F           0      -1.340   0.000  -1.092                       F
+HETATM    5  F           0       0.000  -1.601  -0.304                       F
+HETATM    6  F           0       1.340   0.000  -1.092                       F
+END
+CONECT    1    2    3    4    5
+CONECT    1    6
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    1
