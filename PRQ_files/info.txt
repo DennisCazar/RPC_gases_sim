@@ -2,5 +2,6 @@
 Jose Ramón Mora
 
 PDB files translated to PQR format to perform Cross section calculations
-Program used hpccs
+Program used hpccs 
+https://github.com/cepid-cces/hpccs
 config file: /hpcss/config/config.in
