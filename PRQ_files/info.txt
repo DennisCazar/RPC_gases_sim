@@ -1,0 +1,6 @@
+27/07/2020
+Jose Ramón Mora
+
+PDB files translated to PQR format to perform Cross section calculations
+Program used hpccs
+config file: /hpcss/config/config.in
